@@ -1,5 +1,3 @@
+#Week4IP
 
-**This is MTN ivory coast project on strategy to upgrade infrastructure
-
-
-**In this project I am working to process the dataset provided for an electric car-sharing service company, to understand electric car usage over time.
+In this project I am working to process the dataset provided for an electric car-sharing service company, to understand electric car usage over time.
